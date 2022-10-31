@@ -5,7 +5,7 @@ The description of the database is available in the [paper](https://github.com/E
 
 It will be published on the https://linghub.ru/. Now it can be run locally:
 
-``{python}
+```python
 git clone https://github.com/EkaterinaVoloshina/HebLexTypDB
 python3 app.py
-``
+```

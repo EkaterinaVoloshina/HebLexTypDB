@@ -9,3 +9,7 @@ It will be published on the https://linghub.ru/. Now it can be run locally:
 git clone https://github.com/EkaterinaVoloshina/HebLexTypDB
 python3 app.py
 ```
+
+### Acknowledgements
+
+База данных подготовлена по результатам проекта «Лексический анализ библейских текстов в типологической перспективе» при поддержке фонда «Гуманитарные исследования» ФГН НИУ «Высшая школа экономики» в 2020-2022 гг.
